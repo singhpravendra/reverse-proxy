@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="analytics" target="17" />
+      <module name="analytics.main" target="17" />
+      <module name="analytics.test" target="17" />
+      <module name="department-service-master" target="17" />
+      <module name="gateway" target="17" />
+      <module name="service-registry-master" target="17" />
+      <module name="service-registry.main" target="17" />
+      <module name="service-registry.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

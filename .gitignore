@@ -1,0 +1,4 @@
+# Project exclude paths
+/analytics-service/.gradle/
+/analytics-service/build/
+/analytics-service/build/classes/java/main/
