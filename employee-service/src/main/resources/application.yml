@@ -1,6 +1,11 @@
 spring.application.name: employee-service
 server.port: 8085
 
+management:
+  endpoints:
+    web:
+      exposure:
+        include=*:
 spring:
   data:
     mongodb:
